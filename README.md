@@ -26,7 +26,7 @@ Applying data science and machine learning techniques to solve real-world busine
 
 ## Featured Projects
 
-### [Invoice Payment Prediction](link-to-repo)
+### [Invoice Payment Prediction](https://github.com/wdmartin44-collab/invoice-payment-prediction/tree/main)
 Machine learning model for accounts receivable management and cash flow optimization
 - **Business Problem:** Predicting late invoice payments to improve working capital management
 - **Technical Approach:** Logistic Regression, Decision tree, and Random Forest with SMOTE for class imbalance, feature engineering with aggregated customer statistics
