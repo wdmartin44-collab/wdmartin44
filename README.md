@@ -26,13 +26,20 @@ Applying data science and machine learning techniques to solve real-world busine
 
 ## Featured Projects
 
-### [Invoice Payment Prediction](https://github.com/wdmartin44-collab/invoice-payment-prediction/tree/main)
+### [Python Invoice Payment Prediction](https://github.com/wdmartin44-collab/invoice-payment-prediction/tree/main)
 Machine learning model for accounts receivable management and cash flow optimization
 - **Business Problem:** Predicting late invoice payments to improve working capital management
 - **Technical Approach:** Logistic Regression, Decision tree, and Random Forest with SMOTE for class imbalance, feature engineering with aggregated customer statistics
 - **Results:** 87% accuracy, 0.92 AUC, 0.81 F1-Score
 - **Business Impact:** Enables proactive collection strategies and improves cash flow forecasting
 
+### [Excel Mutual Fund Performance Comparison Dashboard](https://github.com/wdmartin44-collab/Excel-MF-Comparison)
+Excel project comparing risk-adjusted returns and investment styles across three mutual funds
+- **Data Analysis:** Collected and processed monthly return data from WRDS and Ken French's Data Library for FGINX, PGWCX, and SPFIX from 1998 to 2024
+- **Technical Approach:** Fama-French 1, 3, and 4 factor models, Sharpe and Treynor ratios, factor beta analysis, and holdings validation across two subperiods
+- **Results:** Confirmed all three funds matched their stated investment styles, with FGINX leading in risk-adjusted returns and PGWCX finishing strongest in the retirement simulation
+- **Business Impact:** Provides a framework for comparing active vs passive fund strategies and demonstrates how fund selection directly impacts long-term withdrawal sustainability
+  
 ## Education
 
 **North Carolina State University** - B.S. Accounting & Business Analytics | GPA: 3.85  
