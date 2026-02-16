@@ -2,7 +2,7 @@
 
 **Accounting & Business Analytics Student @ NC State University**
 
-Aspiring data scientist with a strong foundation in accounting and financial analysis. I leverage technical skills in Python, SQL, and machine learning to solve complex business problems, with a focus on financial forecasting, risk assessment, and business intelligence.
+Aspiring accountant with a strong foundation in data analytics and financial analysis. I leverage technical skills in Python, SQL, and machine learning to solve complex business problems, with a focus on financial forecasting, risk assessment, and business intelligence.
 
 ## Background
 
